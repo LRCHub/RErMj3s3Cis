@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Drunk-Dazed",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-01-06T14:58:56.636054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drunk-Dazed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/01_Drunk-Dazed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drunk-Dazed - Japanese Ver.",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/02_Drunk-Dazed_-_Japanese_Ver._ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drunk-Dazed (Japanese Ver.)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/03_Drunk-Dazed_(Japanese_Ver.)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drunk-Dazed (Japanese Version)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/04_Drunk-Dazed_(Japanese_Version)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drunk-Dazed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/05_Drunk-Dazed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drunk-Dazed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/06_Drunk-Dazed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drunk-Dazed [Japanese Ver.]",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/07_Drunk-Dazed_[Japanese_Ver.]_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drunk‐Dazed (Japanese ver.)",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/08_Drunk‐Dazed_(Japanese_ver.)_ENHYPEN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drunk-Dazed",
+      "artist": "Kairo Mouse",
+      "has_synced": true,
+      "path": "select/09_Drunk-Dazed_Kairo_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drunk-Dazed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/10_Drunk-Dazed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drunk‐Dazed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/11_Drunk‐Dazed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drunk‐Dazed (Japanese ver.)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/12_Drunk‐Dazed_(Japanese_ver.)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Drunk-Dazed (Paused)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/13_Drunk-Dazed_(Paused)_ENHYPEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drunk-Dazed",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Drunk-Dazed_ENHYPEN.txt"
+    }
+  ]
+}
